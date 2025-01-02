@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Misha Gupta </h1>
 
 # 💫 About Me:
-  I'm a second-year university student majoring in Computer Science and Business at Emory University! <br><br>
+  I'm a second-year university student at Emory University! <br><br>
 
 ## 🚀 What I'm Up To:
 - Building a web platform for APIDA-identifying & underrepresented students to connect with alumni to advance their careers in Government, Tech, Law, Finance, Nonprofits, etc.
