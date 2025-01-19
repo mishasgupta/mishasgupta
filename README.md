@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 I'm Misha Gupta </h1>
 
 # 💫 About Me:
-  I'm a second-year university student at Emory University! <br><br>
+  I'm a current sophomore at Emory University! <br><br>
 
 ## 🚀 What I'm Up To:
+- Exploring back end development with Express.js and Spring Boot, along with PostgreSQL
 - Building a web platform for APIDA-identifying & underrepresented students to connect with alumni to advance their careers in Government, Tech, Law, Finance, Nonprofits, etc.
 - Musician's Mentor, a web platform that connects student musicians to accomplished college musicians for affordable private lessons.
 
