@@ -4,9 +4,7 @@
   I'm a current sophomore at Emory University! <br><br>
 
 ## 🚀 What I'm Up To:
-- Exploring back end development with Express.js and Spring Boot, along with PostgreSQL
-- Building a web platform for APIDA-identifying & underrepresented students to connect with alumni to advance their careers in Government, Tech, Law, Finance, Nonprofits, etc.
-- Musician's Mentor, a web platform that connects student musicians to accomplished college musicians for affordable private lessons.
+- Exploring full stack development with React, Next, Spring Boot, and PostgreSQL!
 
 ## 👨🏻‍💼 Experience:
 - <b>Software Engineer at Emory University School of Medicine:</b> Collaborating with a team of 8 junior engineers and 2 senior engineers to create a Gamified Longitudinal Assessment Platform, an innovative educational platform aimed at transforming competency-based learning and assessment in medical education.
