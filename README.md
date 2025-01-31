@@ -7,7 +7,7 @@
 - Exploring full stack development with React, Next, Spring Boot, and PostgreSQL!
 
 ## 👨🏻‍💼 Experience:
-- <b>Software Engineer at Emory University School of Medicine:</b> Collaborating with a team of 8 junior engineers and 2 senior engineers to create a Gamified Longitudinal Assessment Platform, an innovative educational platform aimed at transforming competency-based learning and assessment in medical education.
+- <b>Software Engineer at Emory University School of Medicine:</b> Collaborating with a team of 8 engineers to create a Gamified Longitudinal Assessment Platform, an innovative educational platform aimed at transforming competency-based learning and assessment in medical education.
 - <b>Undergraduate Research Assistant at Emory University's Computer Science Department:</b> Working with a team of Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
 - <b>SAT & AP Computer Science A Tutor at The Princeton Review:</b> Improved academic performance and test scores for over 20 high school students by facilitating lessons in SAT and AP Computer Science A preparation in underprivileged areas, teaching key computer science fundamentals, including object-oriented programming, data structures, algorithms, and recursion in Java.<br>
 
