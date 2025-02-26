@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Misha Gupta </h1>
+<h1 align="center">Hi! I'm Misha Gupta </h1>
 
 # 💫 About Me:
   I'm a current sophomore at Emory University interested in computer science! <br><br>
