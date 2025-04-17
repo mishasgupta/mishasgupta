@@ -7,8 +7,8 @@
 - Exploring full stack development with React, Next, Spring Boot, and PostgreSQL!
 
 ## 👨🏻‍💼 Experience:
-- <b>Software Engineer at Emory University School of Medicine:</b> Collaborating with a team of 8 engineers to create a Gamified Longitudinal Assessment Platform, an innovative educational platform aimed at transforming competency-based learning and assessment in medical education.
-- <b>Undergraduate Research Assistant at Emory University's Computer Science Department:</b> Working with a team of Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
+- <b>Undergraduate Research Assistant at Emory CAV Lab:</b> Working in a team of 4 students to create data visualizations using Python, Pandas, and Altair for poets of the Atlanta Science Festival, allowing them to leverage data for artistic expression to spark dialogue about social issues in Atlanta
+- <b>Undergraduate Research Assistant at Emory Spatial Computing Lab:</b> Worked with a team of Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
 - <b>SAT & AP Computer Science A Tutor at The Princeton Review:</b> Improved academic performance and test scores for over 20 high school students by facilitating lessons in SAT and AP Computer Science A preparation in underprivileged areas, teaching key computer science fundamentals, including object-oriented programming, data structures, algorithms, and recursion in Java.<br>
 
 ## 🌐 Connect with me:
@@ -28,15 +28,17 @@ Languages:
 
 Frameworks, Databases, Deployments, Libraries, & Tools:
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
