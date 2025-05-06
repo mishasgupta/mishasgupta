@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
 # 🎓 About Me:
-  I'm a current student at Emory University! <br><br>
+  I'm a current student at Emory University studying computer science! <br><br>
 
 ## 👨‍💻 What I'm Up To:
 - Exploring full stack development with React, Next, Spring Boot, and PostgreSQL!
