@@ -1,15 +1,10 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
 # 🎓 About Me:
-  I'm a current student at Emory University studying computer science! <br><br>
+I'm a computer science student interested in AI, software systems/architecture, and databases.<br><br>
 
 ## 👨‍💻 What I'm Up To:
-- Exploring full stack development with React, Next, Spring Boot, and PostgreSQL!
-
-## 💼 Experience:
-- <b>Undergraduate Research Assistant at Emory CAV Lab:</b> Working in a team of 4 students to create data visualizations using Python, Pandas, and Altair for poets of the Atlanta Science Festival, allowing them to leverage data for artistic expression to spark dialogue about social issues in Atlanta
-- <b>Undergraduate Research Assistant at Emory Spatial Computing Lab:</b> Worked with a team of Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
-- <b>SAT & AP Computer Science A Tutor at The Princeton Review:</b> Improved academic performance and test scores for over 20 high school students by facilitating lessons in SAT and AP Computer Science A preparation in underprivileged areas, teaching key computer science fundamentals, including object-oriented programming, data structures, algorithms, and recursion in Java.<br>
+Exploring full stack development with React, Next, Spring Boot, and PostgreSQL!
 
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishasgupta) <br>
