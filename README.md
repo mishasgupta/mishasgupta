@@ -4,7 +4,7 @@
 I'm a computer science student interested in AI, software systems/architecture, cloud computing, and databases.
 
 ## 👨‍💻 What I'm Up To:
-Exploring full stack development with React, Next, Spring Boot, and PostgreSQL!
+Exploring full stack development with React/Next, Spring Boot, and PostgreSQL!
 
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishasgupta)
