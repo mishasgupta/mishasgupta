@@ -8,6 +8,7 @@ Exploring full stack development with React/Next, Spring Boot, and PostgreSQL!
 
 ## 🤝 Connect with me:
 Please feel free to connect with me on LinkedIn!
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishasgupta)
 
 ## 💻 Tech Stack:
