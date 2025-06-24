@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
 # 🎓 About Me:
-I'm a computer science student interested in AI, software systems/architecture, cloud computing, and databases.
+I'm a current computer science student at Columbia University! I'm interested in AI, software systems/architecture, cloud computing, and databases.
 
 ## 👨‍💻 What I'm Up To:
 Exploring full stack development with React/Next, Spring Boot, and PostgreSQL!
