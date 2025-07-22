@@ -4,7 +4,7 @@
 I'm a current computer science student at Columbia University interested in AI, software systems/architecture, cloud computing, and databases.
 
 ## 👨‍💻 What I'm Up To:
-Exploring full stack development with React/Next, Spring Boot, and PostgreSQL!
+Exploring full stack development with React/Next, Spring Boot, Django, and PostgreSQL!
 
 ## 🤝 Connect with me:
 Please feel free to connect with me on LinkedIn!
