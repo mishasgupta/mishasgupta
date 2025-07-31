@@ -4,7 +4,7 @@
 I'm a current computer science student at Columbia University interested in AI, software systems/architecture, cloud computing, and databases.
 
 ## 👨‍💻 What I'm Up To:
-Exploring full stack development with React/Next, Spring Boot, Django, and PostgreSQL!
+Exploring full stack development with React/Next, Django, Express, and PostgreSQL!
 
 ## 🤝 Connect with me:
 Please feel free to connect with me on LinkedIn!
@@ -25,11 +25,11 @@ Languages:
 
 Frameworks, Databases, Deployments, Libraries, & Tools:
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
