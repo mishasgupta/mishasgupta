@@ -4,9 +4,9 @@
 I'm a current computer science student at Columbia University interested in AI, software systems, cloud computing, and databases.
 
 ## 💼 Experience:
-- Software Engineer Intern @ WorkforceIQ
-- Undergraduate Research Assistant @ Emory CAV Lab
-- Undergraduate Research Assistant @ Emory Spatial Computing Lab
+- Software Engineer Intern @ WorkforceIQ (May 2025 - Aug 2025)
+- Undergraduate Research Assistant @ Emory CAV Lab (Jan 2025 - May 2025)
+- Undergraduate Research Assistant @ Emory Spatial Computing Lab (Sep 2024 - Dec 2024)
 
 ## 👨‍💻 What I'm Up To:
 Exploring full stack development with React/Next, Django, Express, and PostgreSQL!
