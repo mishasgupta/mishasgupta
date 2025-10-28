@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
 # 🎓 About Me:
-I'm a current computer science student at Columbia University interested in AI, software systems, cloud computing, and databases.
+I'm a computer science student at Columbia University interested in AI, software systems, cloud computing, and databases.
 
 ## 💼 Experience:
 - Software Engineer Intern @ WorkforceIQ (May 2025 - Aug 2025)
