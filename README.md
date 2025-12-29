@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
 # 🎓 About Me:
-I'm a computer science student at Columbia University interested in AI, software systems, cloud computing, and databases.
+I'm a computer science student at Columbia University interested in AI, software systems, backend development, and cloud computing.
 
 ## 💼 Experience:
 - Software Engineer Intern @ WorkforceIQ (May 2025 - Aug 2025)
@@ -9,7 +9,8 @@ I'm a computer science student at Columbia University interested in AI, software
 - Undergraduate Research Assistant @ Emory Spatial Computing Lab (Sep 2024 - Dec 2024)
 
 ## 👨‍💻 What I'm Up To:
-Exploring full stack development with React/Next, Django, Express, and PostgreSQL!
+- Enjoying diving deeper into systems programming and lower-level concepts through my coursework
+- Exploring full stack development in my free time with React/Next.js, Django, and PostgreSQL
 
 ## 🤝 Connect with me:
 Please feel free to connect with me on LinkedIn!
@@ -25,15 +26,13 @@ Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 Frameworks, Databases, Deployments, Libraries, & Tools:
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,5 +43,3 @@ Frameworks, Databases, Deployments, Libraries, & Tools:
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
