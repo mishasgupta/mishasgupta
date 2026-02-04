@@ -1,20 +1,14 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
-# 🎓 About Me:
+# About Me:
 I'm a computer science student at Columbia University interested in AI, software systems, backend development, and cloud computing.
 
-## 💼 Experience:
+## Experience:
 - Software Engineer Intern @ WorkforceIQ (May 2025 - Aug 2025)
 - Undergraduate Research Assistant @ Emory CAV Lab (Jan 2025 - May 2025)
 - Undergraduate Research Assistant @ Emory Spatial Computing Lab (Sep 2024 - Dec 2024)
 
-## 👨‍💻 What I'm Up To:
-- Enjoying diving deeper into systems programming and lower-level concepts through my coursework
-- Exploring full stack development in my free time with React/Next.js, Django, and PostgreSQL
-
-## 🤝 Connect with me:
-Please feel free to connect with me on LinkedIn!
-<br>
+##  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishasgupta)
 
 ## 💻 Tech Stack:
