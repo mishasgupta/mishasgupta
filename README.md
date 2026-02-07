@@ -4,9 +4,8 @@
 I'm a computer science student at Columbia University interested in AI, software systems, backend development, and cloud computing.
 
 ## Experience:
+- Associate Developer @ Spectator Publishing (Sep 2025 - Present)
 - Software Engineer Intern @ WorkforceIQ (May 2025 - Aug 2025)
-- Undergraduate Research Assistant @ Emory CAV Lab (Jan 2025 - May 2025)
-- Undergraduate Research Assistant @ Emory Spatial Computing Lab (Sep 2024 - Dec 2024)
 
 ##  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishasgupta)
