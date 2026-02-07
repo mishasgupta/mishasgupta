@@ -4,7 +4,7 @@
 I'm a computer science student at Columbia University interested in AI, software systems, backend development, and cloud computing.
 
 ## Experience:
-- Associate Developer @ Spectator Publishing (Sep 2025 - Present)
+- Associate Developer @ Spectator Publishing Company (Sep 2025 - Present)
 - Software Engineer Intern @ WorkforceIQ (May 2025 - Aug 2025)
 
 ##  Connect with me:
