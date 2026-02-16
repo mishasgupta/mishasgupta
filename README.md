@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
 # About Me:
-I'm a computer science student at Columbia University interested in AI, software systems, backend development, and technology infrastructure.
+I'm a computer science student at Columbia University primarily interested in systems, backend, infrastructure, and low-level development.
 
 ## Experience:
 - Associate Developer @ Spectator Publishing Company (Sep 2025 - Present)
