@@ -4,6 +4,7 @@
 I'm a computer science student at Columbia University primarily interested in systems, backend, infrastructure, and low-level development.
 
 ## Experience:
+- Incoming Software Engineer Intern @ Bloomberg (Summer 2026)
 - Software Engineer Intern @ WorkforceIQ (May 2025 - Aug 2025)
 
 ##  Connect with me:
