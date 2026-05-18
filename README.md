@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Misha Gupta </h1>
 
-# About Me:
+## About Me:
 I'm a computer science student at Columbia University primarily interested in systems, backend, infrastructure, and low-level development.
 
 ## Experience:
